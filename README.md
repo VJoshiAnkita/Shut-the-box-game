@@ -1,7 +1,5 @@
 # 🎲 Dice Game - Java Swing Application
 
-![Game Screenshot](screenshot.png) <!-- Add your screenshot path here -->
-
 A fun and interactive dice game built with Java Swing featuring user authentication, leaderboards, and database integration.
 
 ## 🚀 Features
