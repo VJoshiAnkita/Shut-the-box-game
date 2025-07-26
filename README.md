@@ -55,6 +55,6 @@ A fun and interactive dice game built with Java Swing featuring user authenticat
 
 ### Setup Steps
 1. Clone the repository:
-   git clone https://github.com/akshaya-r-0306/Java-Shut-the-box-game.git
+   git clone https://github.com/VJoshiAnkita/Java-Shut-the-box-game.git
    cd Java-Shut-the-box-game
    
